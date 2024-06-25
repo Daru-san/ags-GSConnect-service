@@ -1,0 +1,11 @@
+{
+  "custom/gsconnect": {
+    "format": "{}",
+    "escape": true,
+    "exec": "gsconnect-indicator",
+    "return-type": "json",
+    "tooltip": "{tooltip}",
+    "interval": 30,
+    "on-click": "/usr/share/gnome-shell/extensions/gsconnect@andyholmes.github.io/gsconnect-preferences"
+  }
+}
